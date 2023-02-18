@@ -3,7 +3,7 @@ public class ForLoopExample {
 	
 	public static void main(String[] args) {
 				
-		for(int i = 1 ; i < 11 ; i++) {
+		for(int i = 1 ; i < 12 ; i++) {
 			
 			//for is a keyword - When we want to add looping construct to out program
 			//Three parameter
